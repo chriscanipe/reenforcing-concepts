@@ -2,13 +2,21 @@
 
 ####Starting a new project
 
-1. Clone a copy of the News Apps Template from Chris' Git page.
+1. Navigate to your working directory for class. Ex:
+	```
+	$ cd Sites
+	```
 
-2. Rename the repository locally. Already in a single git comand.
+2. Start a python simple server.
+	```
+	$ python -m SimpleHTTPServer 8000
+	```
 
-Git command to clone and rename a repository locally:
-$ git clone [repository address here] file-name-here 
 
+3. Clone a copy of the News Apps Template from Chris' Git page, and rename it
+	```
+	$ git clone https://github.com/chriscanipe/web-app-template-simple.git new-project-name
+	```
 
 
 ####Saving to YOUR repository:
