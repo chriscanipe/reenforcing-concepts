@@ -3,6 +3,7 @@
 ####Starting a new project
 
 1) Clone a copy of the News Apps Template from Chris' Git page.
+
 2) Rename the repository locally. Already in a single git comand.
 
 Git command to clone and rename a repository locally:
