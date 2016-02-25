@@ -17,33 +17,33 @@ $ git clone [repository address here] file-name-here
 Open your Git page, create and name a new repository.
 
 2. Remove the original ORIGIN (which links to Chris' Git page)
-```
-$ git remote rm origin
-```
+	```
+	$ git remote rm origin
+	```
 
 3. Add YOUR origin to the repository
-```
-$ git remote add origin [address copied from your newly-created repo]
-```
+	```
+	$ git remote add origin [address copied from your newly-created repo]
+	```
 
 4. Add all untracked files to the repository.
-```
-$ git add .
-```
-OR 
-```
-$git add -A
-```
+	```
+	$ git add .
+	```
+	OR 
+	```
+	$git add -A
+	```
 
 5. Commit your changes.
-```
-$ git commit -am "Describe your changes here"
-```
+	```
+	$ git commit -am "Describe your changes here"
+	```
 
 6. Push to your new repository.
-```
-$ git push origin master
-```
+	```
+	$ git push origin master
+	```
 
 ###Git Markdown Cheatsheet:
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
