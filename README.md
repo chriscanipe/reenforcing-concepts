@@ -12,7 +12,6 @@
 	$ python -m SimpleHTTPServer 8000
 	```
 
-
 3. Clone a copy of the News Apps Template from Chris' Git page, and rename it
 	```
 	$ git clone https://github.com/chriscanipe/web-app-template-simple.git new-project-name
